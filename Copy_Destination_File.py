@@ -1,3 +1,13 @@
+# __________________________
+#| Punuan:                 |
+#| Fatlind Thaçi           |
+#| Florent Kafexholli      |
+#| Enis Hoti               |
+#|                         |
+#| Python Application For  |
+#|     COPY&MOVE Files     |
+#|_________________________|
+
 import shutil 
 import tkinter as tk 
 from tkinter import *
