@@ -24,3 +24,6 @@ MoveFile()
 
 Poashtu është përdorur edhe disa messagebox në rastet kur operacioni i COPY ose MOVE nuk arrihet të ekzekutohet për një qëllim të caktuar.
 Poshtë kemi edhe dy butona tjerë COPY FILE DHE MOVE FILE.Butoni i parë pasi të mbushen te dy label , mundëson kopjimin e fajllit nga një folder në folderin tjetër , duke pas mundesinë që ai fajll i caktuar, të jetë i pranishem edhe në folderin e mëparshem edhe në folderin e ri.Ndërsa butoni i dytë MOVE FILE sillet sikur komanda "CUT" , pra e zhvendos fajllin nga folderi 1 në folderin 2 , dhe ne folderin 1 pas këtij operacioni ai fajll nuk ndodhet më.Gjatë kësaj detyre janë përdorur disa funksione të ndryshme të cilat na kanë lehtësuar punën gjatë detyrës.
+
+----------------------------------------------------------------------------------------------------
+
