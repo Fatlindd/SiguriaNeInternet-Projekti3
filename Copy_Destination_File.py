@@ -86,7 +86,7 @@ root.config(background = "#CEE1CE")
 sourceLocation = StringVar() 
 destinationLocation = StringVar() 
 
-# Calling the CreateWidgets() function 
+# Calling the TKinterWidgets() function 
 TkinterWidgets() 
 
 # Defining infinite loop 
